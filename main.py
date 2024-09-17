@@ -27,6 +27,7 @@ def charnum(text):
     
     return char_counts
     
-  
+   # list_of_dict(): []
+
 
 main()
