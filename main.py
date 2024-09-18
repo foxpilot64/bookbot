@@ -43,25 +43,4 @@ def charnum(text):
     
   
    
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   
-   # list_of_dict(): []
-#def sort_on(dict):
-   # return dict["num"]
-
-##alpha_count = [
-
-#]
-#alpha_count.sort(reverse=True, key=sort_on)
-#print(alpha_count)
-
-
 main()
